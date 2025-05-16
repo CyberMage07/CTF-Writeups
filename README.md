@@ -52,4 +52,4 @@ These resources were used during learning and exploration:
 
 ```bash
 git clone https://github.com/CyberMage07/CTF-Writeups.git
-cd "CTF-Writeups/Nebula - Exploit Education"
+cd "CTF-Writeups/Nebula By Exploit Education"
