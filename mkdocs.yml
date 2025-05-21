@@ -1,0 +1,60 @@
+site_name: OverTheWire CTF Writeups
+site_url: https://CyberMage07.github.io/CTF-Writeups/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: lime
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: lime
+      accent: deep purple
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+
+nav:
+  - Home: index.md
+  - Over The Wire:
+      - Bandit:
+          - "Level 0 → 1": "Over The Wire/Bandit/📘 Bandit Level 0 → Level 1.md"
+          - "Level 1 → 2": "Over The Wire/Bandit/📘 Bandit Level 1 → Level 2.md"
+          - "Level 2 → 3": "Over The Wire/Bandit/📘 Bandit Level 2 → Level 3.md"
+          - "Level 3 → 4": "Over The Wire/Bandit/📘 Bandit Level 3 → Level 4.md"
+          - "Level 4 → 5": "Over The Wire/Bandit/📘 Bandit Level 4 → Level 5.md"
+          - "Level 5 → 6": "Over The Wire/Bandit/📘 Bandit Level 5 → Level 6.md"
+          - "Level 6 → 7": "Over The Wire/Bandit/📘 Bandit Level 6 → Level 7.md"
+          - "Level 7 → 8": "Over The Wire/Bandit/📘 Bandit Level 7 → Level 8.md"
+          - "Level 8 → 9": "Over The Wire/Bandit/📘 Bandit Level 8 → Level 9.md"
+          - "Level 9 → 10": "Over The Wire/Bandit/📘 Bandit Level 9 → Level 10.md"
+          - "Level 10 → 11": "Over The Wire/Bandit/📘 Bandit Level 10 → Level 11.md"
+          - "Level 11 → 12": "Over The Wire/Bandit/📘 Bandit Level 11 → Level 12.md"
+          - "Level 12 → 13": "Over The Wire/Bandit/📘 Bandit Level 12 → Level 13.md"
+          - "Level 13 → 14": "Over The Wire/Bandit/📘 Bandit Level 13 → Level 14.md"
+          - "Level 14 → 15": "Over The Wire/Bandit/📘 Bandit Level 14 → Level 15.md"
+          - "Level 15 → 16": "Over The Wire/Bandit/📘Bandit Level 15 → Level 16.md"
+          - "Level 16 → 17": "Over The Wire/Bandit/📘Bandit Level 16 → Level 17.md"
+          - "Level 17 → 18": "Over The Wire/Bandit/📘Bandit Level 17 → Level 18.md"
+          - "Level 18 → 19": "Over The Wire/Bandit/📘Bandit Level 18 → Level 19.md"
+          - "Level 19 → 20": "Over The Wire/Bandit/📘Bandit Level 19 → Level 20.md"
+          - "Level 20 → 21": "Over The Wire/Bandit/📘Bandit Level 20 → Level 21.md"
+          - "Level 21 → 22": "Over The Wire/Bandit/📘Bandit Level 21 → Level 22.md"
+          - "Level 22 → 23": "Over The Wire/Bandit/📘Bandit Level 22 → Level 23.md"
+          - "Level 23 → 24": "Over The Wire/Bandit/📘Bandit Level 23 → Level 24.md"
+      - Krypton:
+          - "Level 0 → 1": "Over The Wire/Krypton/🧪 Krypton Level 0 → Level 1.md"
+          - "Level 1 → 2": "Over The Wire/Krypton/🧬 Krypton Level 1 → Level 2.md"
+          - "Level 2 → 3": "Over The Wire/Krypton/🔐 Krypton Level 2 → Level 3.md"
+          - "Level 3 → 4": "Over The Wire/Krypton/🧾 Krypton Level 3 → Level 4.md"
+          - "Level 4 → 5": "Over The Wire/Krypton/🧮 Krypton Level 4 → Level 5.md"
+          - "Level 5 → 6": "Over The Wire/Krypton/🧷 Krypton Level 5 → Level 6.md"
+          - "Level 6 → 7": "Over The Wire/Krypton/🧠 Krypton Level 6 → Level 7.md"
+
+plugins:
+  - search
+  - awesome-pages
