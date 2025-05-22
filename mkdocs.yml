@@ -17,7 +17,6 @@ theme:
         icon: material/lightbulb
         name: Switch to light mode
 
-
 nav:
   - Home: index.md
   - Over The Wire:
@@ -54,6 +53,15 @@ nav:
           - "Level 4 → 5": "Over The Wire/Krypton/🧮 Krypton Level 4 → Level 5.md"
           - "Level 5 → 6": "Over The Wire/Krypton/🧷 Krypton Level 5 → Level 6.md"
           - "Level 6 → 7": "Over The Wire/Krypton/🧠 Krypton Level 6 → Level 7.md"
+      - Maze:
+          - "Level 0 → 1": "Over The Wire/Maze/🌀 Maze Level 0 → Level 1.md"
+          - "Level 1 → 2": "Over The Wire/Maze/🌀 Maze Level 1 → Level 2.md"
+          - "Level 2 → 3": "Over The Wire/Maze/🌀 Maze Level 2 → Level 3.md"
+          - "Level 3 → 4": "Over The Wire/Maze/🌀 Maze Level 3 → Level 4.md"
+          - "Level 4 → 5": "Over The Wire/Maze/🌀 Maze Level 4 → Level 5.md"
+          - "Level 5 → 6": "Over The Wire/Maze/🌀 Maze Level 5 → Level 6.md"
+          - "Level 6 → 7": "Over The Wire/Maze/🌀 Maze Level 6 → Level 7.md"
+          - "Level 7 → 8": "Over The Wire/Maze/🌀 Maze Level 7 → Level 8.md"
 
 plugins:
   - search
